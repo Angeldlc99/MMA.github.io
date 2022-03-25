@@ -20,6 +20,11 @@
     $('.navbar-collapse').collapse('hide');
   });
 
+  // Closes responsive menu when page is scrolled
+  $(window).scroll(function() {
+    $('.navbar-collapse').collapse('hide');
+  });
+
   // Activate scrollspy to add active class to navbar items on scroll
   $('body').scrollspy({
     target: '#mainNav',
