@@ -305,21 +305,26 @@ header.masthead .intro-text .intro-heading {
 }
 
 #contact {
-  padding: 50px;
   background-color: #315284;
   background-image: url("../img/map-image.png");
 }
 
 #contact .section-heading {
   color: white;
+  padding: 50px;
 }
 
 #contact .contact-contact {
   text-align: center;
-  padding: 0px !important;
+  padding: 0px;
+}
+
+#contact .contact-address {
+  padding: 50px;
 }
 
 #contact .map-responsive iframe{
+    padding: 50px;
     max-width: 100%;
     height: auto;
 }
