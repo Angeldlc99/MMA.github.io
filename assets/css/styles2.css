@@ -295,7 +295,8 @@ header.masthead .intro-text .intro-heading {
 }
 
 #certifications {
-  padding: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   background-color: #e0e0e0;
 }
 
@@ -307,6 +308,10 @@ header.masthead .intro-text .intro-heading {
 
 #contact .section-heading {
   color: white;
+}
+
+#contact .contact-contact {
+  text-align: center;
 }
 
 #contact .map-responsive iframe{
