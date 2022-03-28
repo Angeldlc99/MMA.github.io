@@ -8,7 +8,7 @@ body {
  }
 
  .text-primary {
-   color: #697689 !importan;
+   color: #697689 !important;
  }
 
  .bold {
@@ -89,6 +89,12 @@ body {
     font-size: 2em;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
+  }
+  #mainNav .navbar-language {
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    font-size: 2em;
+    padding: 12px;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     padding: 1.1em 1em !important;
