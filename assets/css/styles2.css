@@ -312,7 +312,7 @@ header.masthead .intro-text .intro-heading {
 
 #contact .contact-contact {
   text-align: center;
-  padding: 0px;
+  padding: -15px;
 }
 
 #contact .map-responsive iframe{
