@@ -300,6 +300,10 @@ header.masthead .intro-text .intro-heading {
   background-color: #e0e0e0;
 }
 
+#certifications .certifications_text {
+  padding: 50px;
+}
+
 #contact {
   padding: 50px;
   background-color: #315284;
@@ -312,7 +316,7 @@ header.masthead .intro-text .intro-heading {
 
 #contact .contact-contact {
   text-align: center;
-  padding: -15px;
+  padding: 0px !important;
 }
 
 #contact .map-responsive iframe{
